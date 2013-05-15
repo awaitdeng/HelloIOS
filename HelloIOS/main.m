@@ -2,7 +2,7 @@
 //  main.m
 //  HelloIOS
 //
-//  Created by apple on 13-5-15.
+//  Created by apple on 13-5-15. Email:luyuandeng@126.com
 //  Copyright (c) 2013年 apple. All rights reserved.
 //
 
